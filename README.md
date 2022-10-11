@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A future full-stack developer. Currently enrolled in Microverse. A forever-curious weirdo.</h3>
+<h3 align="center">A Full-stack developer from Hungary, living in Latin-America. <br> Currently enrolled in Microverse. A forever-curious weirdo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattgomb&label=views&color=0e75b6&style=plastic" alt="mattgomb" /> </p>
 
