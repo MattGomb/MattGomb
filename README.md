@@ -1,3 +1,5 @@
+<img src="MattGomb.jpg" alt="banner" align="center">
+
 
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A Full-stack developer from Hungary, living in Latin-America. <br> Currently enrolled in Microverse. A forever-curious weirdo.</h3>
