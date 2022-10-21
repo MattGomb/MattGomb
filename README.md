@@ -31,6 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattgomb&show_icons=true&title_color=2b4cb1&text_color=cb2115&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="mattgomb" /></p>
 
+<p><br></p>
+<p><br></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattgomb&show_icons=true&title_color=cb2115&text_color=2b4cb1&bg_color=ffffff&hide_border=true&locale=en" alt="mattgomb" /></p>
 
 <p><br></p>
