@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gombosonline@gmail.com**
 
-- ⚡ Fun fact **I like boardgames, tv-shows, playing the guitar, and quality whiskey.**
+- ⚡ Fun fact **I like boardgames, tv-shows, and playing the guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
